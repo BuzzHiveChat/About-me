@@ -1,61 +1,43 @@
-# 🐝 BuzzHiveChat
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm a Developer</h1>
+<h3 align="center">🚀 Building cool stuff | 💻 Full Stack Dev | 🐝 BuzzHiveChat Creator</h3>
 
-> Modern community and messaging platform built around **Hives** — simple, fast, and social.
-
----
-
-## 👋 About Me
-
-Hey! I’m the creator of **BuzzHiveChat** 🐝  
-I build apps that focus on community, messaging, and making online spaces feel more connected and less complicated.
-
-BuzzHiveChat is my main project — a platform designed to replace traditional “servers” with something more natural: **Hives**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 What is BuzzHiveChat?
+## 🧠 About Me
 
-BuzzHiveChat is a modern community and messaging platform featuring:
-
-- 🐝 **Hives** — community spaces (like servers, but simpler)
-- 💬 **Chats & Channels** — real-time messaging
-- 👤 **Direct Messages**
-- 🌐 **Social communities**
-- 📱 Built for Android (and expanding)
-
-The goal is to make communication feel:
-- faster ⚡
-- cleaner 🧼
-- more connected 🤝
+- 🔭 Currently working on: **BuzzHiveChat 🐝**
+- 🌱 Learning: **React, Node.js, APIs**
+- 💬 I build: **apps, bots, random projects**
+- ⚡ Fun fact: I break things to understand them
 
 ---
 
-## 🧠 Tech & Ideas
+## ⚙️ Tech Stack
 
-- Community-first design
-- Lightweight structure
-- Real-time messaging systems
-- Scalable hive-based architecture
+<p align="center">
 
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Status
-
-🟢 Active development  
-⚙️ Early beta stage  
-🐛 Expect bugs (they’re being worked on)
+</p>
 
 ---
 
-## 📫 Contact / Follow
+## 💡 Vibes
 
-- Project: BuzzHiveChat
-- Updates coming soon...
-
----
-
-## 🐝 Motto
-
-> “We didn’t build servers. We built Hives.”
+> “Build. Break. Fix. Repeat.”
 
 ---
+
+<p align="center">
+  ⭐ Just building cool stuff in the background ⭐
+</p>
